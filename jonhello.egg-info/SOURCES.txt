@@ -1,0 +1,8 @@
+setup.py
+jonhello/__init__.py
+jonhello/hello.py
+jonhello.egg-info/PKG-INFO
+jonhello.egg-info/SOURCES.txt
+jonhello.egg-info/dependency_links.txt
+jonhello.egg-info/not-zip-safe
+jonhello.egg-info/top_level.txt
